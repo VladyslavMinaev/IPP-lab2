@@ -1,0 +1,17 @@
+I:\lb2\Merafile.Reader\bin\Debug\net6.0-windows\Merafile.Reader.exe
+I:\lb2\Merafile.Reader\bin\Debug\net6.0-windows\Merafile.Reader.deps.json
+I:\lb2\Merafile.Reader\bin\Debug\net6.0-windows\Merafile.Reader.runtimeconfig.json
+I:\lb2\Merafile.Reader\bin\Debug\net6.0-windows\Merafile.Reader.dll
+I:\lb2\Merafile.Reader\bin\Debug\net6.0-windows\Merafile.Reader.pdb
+I:\lb2\Merafile.Reader\obj\Debug\net6.0-windows\Merafile.Reader.csproj.AssemblyReference.cache
+I:\lb2\Merafile.Reader\obj\Debug\net6.0-windows\Merafile.Reader.Form1.resources
+I:\lb2\Merafile.Reader\obj\Debug\net6.0-windows\Merafile.Reader.csproj.GenerateResource.cache
+I:\lb2\Merafile.Reader\obj\Debug\net6.0-windows\Merafile.Reader.GeneratedMSBuildEditorConfig.editorconfig
+I:\lb2\Merafile.Reader\obj\Debug\net6.0-windows\Merafile.Reader.AssemblyInfoInputs.cache
+I:\lb2\Merafile.Reader\obj\Debug\net6.0-windows\Merafile.Reader.AssemblyInfo.cs
+I:\lb2\Merafile.Reader\obj\Debug\net6.0-windows\Merafile.Reader.csproj.CoreCompileInputs.cache
+I:\lb2\Merafile.Reader\obj\Debug\net6.0-windows\Merafile.Reader.dll
+I:\lb2\Merafile.Reader\obj\Debug\net6.0-windows\refint\Merafile.Reader.dll
+I:\lb2\Merafile.Reader\obj\Debug\net6.0-windows\Merafile.Reader.pdb
+I:\lb2\Merafile.Reader\obj\Debug\net6.0-windows\Merafile.Reader.genruntimeconfig.cache
+I:\lb2\Merafile.Reader\obj\Debug\net6.0-windows\ref\Merafile.Reader.dll

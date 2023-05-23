@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GgDZNiK1aVvx9GV2uxR04ADvnGBQa94JUxTkNw8vdev2+o4LbrtxcZpZU+miacPK+uhX4eBewM0LLe2aFfp+/A==",
+  "success": true,
+  "projectFilePath": "I:\\lb2\\Metafile.FiguresCreator\\Metafile.FiguresCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dzhur\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\dzhur\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
